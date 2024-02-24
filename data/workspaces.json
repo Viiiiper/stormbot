@@ -1,0 +1,36 @@
+[
+    {
+        "id": "FMSxlGv8jN",
+        "active": true,
+        "info": {
+            "title": "StormBot",
+            "description": "",
+            "thumbnail": "",
+            "color": "#ff0000"
+        },
+        "blocks": [
+            {
+                "name": "role_create_event",
+                "inputs": {},
+                "options": {
+                    "unstable_outputs": "no"
+                },
+                "outputs": {
+                    "action": [],
+                    "role": [],
+                    "user": [],
+                    "reason": []
+                },
+                "info": {
+                    "x": 87,
+                    "y": 91,
+                    "z": 0,
+                    "width": 365,
+                    "height": 188,
+                    "color": ""
+                }
+            }
+        ],
+        "notes": []
+    }
+]
